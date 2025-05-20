@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Banner de développeur" width="100%">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Bannière de développeur" width="100%">
 </div>
 
 # 👨‍💻 Saad Draissi
@@ -10,7 +10,7 @@
 
   [![GitHub followers](https://img.shields.io/github/followers/Draissi_Saad?logo=GitHub&style=for-the-badge)](https://github.com/Draissi_Saad)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saad-draissi)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=safari)](https://votre-portfolio.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=safari)](https://saad-draissi.vercel.app/)
   
 </div>
 
@@ -20,9 +20,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Bonjour ! Je suis **Saad Draissi**, étudiant passionné en génie logiciel et science de donnees. Je suis constamment à la recherche de nouvelles connaissances et de défis stimulants dans le domaine du développement informatique. Mon objectif est de contribuer à des projets innovants qui ont un impact positif tout en perfectionnant mes compétences techniques.
+Bonjour ! Je suis **Saad Draissi**, étudiant passionné en génie logiciel et science des données. Je suis constamment à la recherche de nouvelles connaissances et de défis stimulants dans le domaine du développement informatique. Mon objectif est de contribuer à des projets innovants qui ont un impact positif tout en perfectionnant mes compétences techniques.
 
-- 🎓 Étudiant en Génie Logiciel et science de donnees
+- 🎓 Étudiant en Génie Logiciel et Science des Données
 - 🚀 Toujours en quête d'amélioration continue
 - 💡 Passionné par la résolution de problèmes complexes
 - 🌐 Intéressé par le développement web fullstack
@@ -84,17 +84,17 @@ Bonjour ! Je suis **Saad Draissi**, étudiant passionné en génie logiciel et s
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Draissi_Saad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draissi_Saad&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Draissi_Saad&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques GitHub" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draissi_Saad&theme=tokyonight&hide_border=true" alt="Série GitHub" width="100%"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draissi_Saad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Draissi_Saad&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draissi_Saad&layout=compact&theme=tokyonight&hide_border=true" alt="Langages Principaux" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Draissi_Saad&theme=tokyonight" alt="Résumé GitHub" width="100%"/>
       </td>
     </tr>
   </table>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Draissi_Saad&theme=tokyonight&no-frame=true&no-bg=false&column=7" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Draissi_Saad&theme=tokyonight&no-frame=true&no-bg=false&column=7" alt="Trophées GitHub" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -131,11 +131,11 @@ Je suis ouvert à collaborer sur :
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email@exemple.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad.draissi.contact@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-draissi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Draissi_Saad)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Saad_Draissi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draissi_Saad)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/votre-id)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/416586186764386305)
 
 </div>
 
@@ -154,13 +154,13 @@ Je suis ouvert à collaborer sur :
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citation aléatoire"/>
 </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Draissi_Saad/Draissi_Saad/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Draissi_Saad/Draissi_Saad/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Draissi_Saad/Draissi_Saad/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation des contributions GitHub" src="https://raw.githubusercontent.com/Draissi_Saad/Draissi_Saad/output/github-contribution-grid-snake.svg">
 </picture>
 
 <div align="center">
