@@ -1,7 +1,7 @@
 <!-- Saad Draissi - Profil Professionnel -->
 <div align="center">
   <h1>Saad Draissi</h1>
-  <p><i>Ingénieur Logiciel | Développeur Full Stack | Data Science</i></p>
+  <p><i>Futur Ingénieur Logiciel | Développeur Full Stack | Data Science</i></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-draissi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saad-draissi.vercel.app/)
