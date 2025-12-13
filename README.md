@@ -78,7 +78,7 @@ const saad = {
 + React Native (Mobile Development)
 + CI/CD & DevOps Practices
 + Cloud Computing (AWS)
-! Open Source Contributions
+
 ```
 
 ---
