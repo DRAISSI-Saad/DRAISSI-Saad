@@ -77,7 +77,7 @@ const saad = {
 + Machine Learning & Data Science
 + React Native (Mobile Development)
 + CI/CD & DevOps Practices
-+ Cloud Computing (AWS)
++ dev systeme de gestion en (EJB)
 
 ```
 
